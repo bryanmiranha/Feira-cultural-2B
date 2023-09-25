@@ -22,7 +22,6 @@ body {
 
 .principal {
     background-image: url("best-nba.jpg");
-    width: 50%;
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
